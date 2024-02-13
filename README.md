@@ -1,2 +1,2 @@
 # Dice-Game
-My first react 
+My fiest dice game with react
